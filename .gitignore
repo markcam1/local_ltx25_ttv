@@ -1,0 +1,19 @@
+# Secrets & local environment
+.env
+.env.*
+
+# Generated run outputs, videos, and archives
+runs/
+*.mp4
+*.mov
+*.zip
+*.safetensors
+
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
